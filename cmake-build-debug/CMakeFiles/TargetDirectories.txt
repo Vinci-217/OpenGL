@@ -1,0 +1,3 @@
+C:/Users/F/Desktop/OpenGL/cmake-build-debug/CMakeFiles/OpenGL.dir
+C:/Users/F/Desktop/OpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/F/Desktop/OpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
