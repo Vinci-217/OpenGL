@@ -73,6 +73,7 @@ build CMakeFiles/OpenGL.dir/main.cpp.obj: CXX_COMPILER__OpenGL_unscanned_Debug C
 
 build OpenGL.exe: CXX_EXECUTABLE_LINKER__OpenGL_Debug CMakeFiles/OpenGL.dir/src/glad.c.obj CMakeFiles/OpenGL.dir/main.cpp.obj | C$:/Users/F/Desktop/OpenGL/lib/glfw3.dll
   FLAGS = -g
+  LINK_FLAGS = -static
   LINK_LIBRARIES = C:/Users/F/Desktop/OpenGL/lib/glfw3.dll  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\OpenGL.dir
   POST_BUILD = cd .
